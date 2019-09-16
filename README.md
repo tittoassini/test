@@ -1,5 +1,5 @@
 test
 ====
 
-Test repository, used for private data.
+Test repository, used for private data and experiments.
 
